@@ -8,3 +8,6 @@ Security architecture references
 * https://wiki.mozilla.org/Security/ReviewProcess
 * https://resources.infosecinstitute.com/application-architecture-review/#gref
 
+Zero Trust Arch
+* https://hackernoon.com/the-rise-of-zero-trust-architecture-17464e6cbf30
+
